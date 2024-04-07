@@ -1,0 +1,4 @@
+mlflow ui - to see logs on mlflow server
+
+first file is experiments.py
+second file is evaluation.py - like this file you can implement mlflow code evaluation in your ml project
