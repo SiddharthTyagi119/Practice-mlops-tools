@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20science/MLOPS/Practice-mlops-tools/mlruns/0/3d1ebd6da41f4c1182d8de33e2e01e20/artifacts
+end_time: 1712472051344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d1ebd6da41f4c1182d8de33e2e01e20
+run_name: rogue-squid-641
+run_uuid: 3d1ebd6da41f4c1182d8de33e2e01e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712472051269
+status: 3
+tags: []
+user_id: sairam

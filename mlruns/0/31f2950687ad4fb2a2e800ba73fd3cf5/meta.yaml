@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20science/MLOPS/Practice-mlops-tools/mlruns/0/31f2950687ad4fb2a2e800ba73fd3cf5/artifacts
+end_time: 1712471807550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31f2950687ad4fb2a2e800ba73fd3cf5
+run_name: big-asp-706
+run_uuid: 31f2950687ad4fb2a2e800ba73fd3cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712471807476
+status: 3
+tags: []
+user_id: sairam
