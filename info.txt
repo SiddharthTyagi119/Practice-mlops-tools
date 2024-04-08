@@ -1,4 +1,13 @@
 mlflow ui - to see logs on mlflow server
 
+mlflow--
 first file is experiments.py
 second file is evaluation.py - like this file you can implement mlflow code evaluation in your ml project
+
+dvc-
+first file is test.py for data tracking
+to initialize dvc- git init
+
+we never use git for data management/versioning rather we use this for scm . so that's why the main data file not tracked by git.
+we never track data by git.
+we track the data by dvc
