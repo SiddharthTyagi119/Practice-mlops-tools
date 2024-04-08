@@ -13,3 +13,5 @@ we never track data by git.
 we track the data by dvc mainly .dvc file
 under cache folder you will find all the version of the data
 in csv.dvc - # key represent the current version of data
+
+commit the changes in git after add data to dvc and its dvc file . add and commit 
