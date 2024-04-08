@@ -11,3 +11,4 @@ to initialize dvc- git init
 we never use git for data management/versioning rather we use this for scm . so that's why the main data file not tracked by git.
 we never track data by git.
 we track the data by dvc
+under cache folder you will find all the version of the data
