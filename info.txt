@@ -15,3 +15,17 @@ under cache folder you will find all the version of the data
 in csv.dvc - # key represent the current version of data
 
 commit the changes in git after add data to dvc and its dvc file . add and commit 
+
+remote storage-
+dvc remote add -d  remotestorage2 /conifg/workspace/myremotestorage
+dvc add data
+dvc add .csv.dvc
+dvc push
+
+dvc versioning------------
+create 2 stages and then - 
+dvc repro - for data versioning
+dvc lock file and cache file reflects the changes made in files
+
+
+dvc dag- flowchart
