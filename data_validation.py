@@ -92,6 +92,8 @@ class DataValidation:
         try:
             data_drift_profile = Profile(sections=[DataDriftProfileSection()])
 
+            
+            #reference_df, current_df- > train and test respectively
             data_drift_profile.calculate(reference_df, current_df)
 
             report = data_drift_profile.json()
