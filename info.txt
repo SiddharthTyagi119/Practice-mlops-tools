@@ -29,3 +29,15 @@ dvc lock file and cache file reflects the changes made in files
 
 
 dvc dag- flowchart
+dvc repro
+dvc metrics show
+dvc plots show
+dvc push- to add data and model at remote to track
+after adding the data to remote do git commit like
+git add and commit 
+git tag v1
+git push tag
+dvc metrics diff
+dvc params diff
+git checkout v1
+dvc pull
